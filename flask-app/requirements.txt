@@ -11,3 +11,5 @@ google-generativeai
 langdetect
 flask_cors
 flask
+pypdf
+python-docx
