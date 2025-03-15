@@ -1,0 +1,13 @@
+langchain
+langchain_community
+langchain-huggingface
+python-dotenv
+together
+huggingface_hub
+faiss-cpu
+sentence-transformers
+einops
+google-generativeai
+langdetect
+flask_cors
+flask
